@@ -1,0 +1,5 @@
+flask==3.0.3
+pandas==2.2.2
+numpy==1.26.4
+flask-cors==4.0.1  # For Cross-Origin Resource Sharing (CORS) with React
+flask-login==0.6.3 
